@@ -18,6 +18,7 @@ Requirements:
 -------------
 
 The whole folder, including the images, data and tasks.
+The 13k recipe csv found here: https://github.com/josephrmartinez/recipe-dataset/blob/main/13k-recipes.csv
 
 Libraries including NLTK, NumPy, Keras, Pandas, scikit-learn, AST, collections, Matplotlib and TensorFlow.
 
@@ -71,3 +72,4 @@ For the model, the goal was to make it simple, hierarchical and overfit resistan
 Catagorising
 -------------
 To achieve this, task 1's predictions must aid the task. After colecting the test data's prediction, the prediction is tokenised, vectorised and fed through the One-vs-Rest perceptron.
+

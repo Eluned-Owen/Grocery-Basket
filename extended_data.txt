@@ -1,0 +1,691 @@
+Item	Category
+apple	Produce
+banana	Produce
+orange	Produce
+lettuce	Produce
+carrot	Produce
+broccoli	Produce
+tomato	Produce
+spinach	Produce
+grapes	Produce
+pear	Produce
+kiwi	Produce
+mango	Produce
+strawberry	Produce
+blueberry	Produce
+zucchini	Produce
+cucumber	Produce
+avocado	Produce
+chicken	Meat & Seafood
+beef	Meat & Seafood
+pork	Meat & Seafood
+salmon	Meat & Seafood
+tuna	Meat & Seafood
+shrimp	Meat & Seafood
+crab	Meat & Seafood
+steak	Meat & Seafood
+lamb	Meat & Seafood
+bacon	Meat & Seafood
+sardines	Meat & Seafood
+trout	Meat & Seafood
+tilapia	Meat & Seafood
+cod	Meat & Seafood
+turkey breast	Meat & Seafood
+duck	Meat & Seafood
+lobster	Meat & Seafood
+milk	Dairy & Eggs
+cheese	Dairy & Eggs
+yogurt	Dairy & Eggs
+butter	Dairy & Eggs
+eggs	Dairy & Eggs
+cream	Dairy & Eggs
+sour cream	Dairy & Eggs
+ice cream	Dairy & Eggs
+buttermilk	Dairy & Eggs
+cottage cheese	Dairy & Eggs
+whipped cream	Dairy & Eggs
+ghee	Dairy & Eggs
+feta cheese	Dairy & Eggs
+goat cheese	Dairy & Eggs
+ricotta	Dairy & Eggs
+cream cheese	Dairy & Eggs
+bread	Bakery
+bagel	Bakery
+croissant	Bakery
+muffin	Bakery
+cake	Bakery
+cookie	Bakery
+donut	Bakery
+brownie	Bakery
+brioche	Bakery
+pita	Bakery
+ciabatta	Bakery
+sourdough	Bakery
+biscuit	Bakery
+waffle	Bakery
+crackers	Bakery
+pastry	Bakery
+flour	Pantry
+sugar	Pantry
+salt	Pantry
+pepper	Pantry
+oil	Pantry
+vinegar	Pantry
+pasta sauce	Pantry
+peanut butter	Pantry
+honey	Pantry
+soy sauce	Pantry
+tomato paste	Pantry
+oats	Pantry
+rice	Pantry
+cereal	Pantry
+spices	Pantry
+herbs	Pantry
+yeast	Pantry
+canned tuna	Pantry
+frozen pizza	Frozen Foods
+frozen vegetables	Frozen Foods
+ice cream	Frozen Foods
+frozen fries	Frozen Foods
+frozen chicken wings	Frozen Foods
+frozen fish	Frozen Foods
+frozen berries	Frozen Foods
+frozen waffles	Frozen Foods
+frozen dinners	Frozen Foods
+frozen peas	Frozen Foods
+frozen spinach	Frozen Foods
+frozen shrimp	Frozen Foods
+soda	Beverages
+juice	Beverages
+water	Beverages
+coffee	Beverages
+tea	Beverages
+wine	Beverages
+beer	Beverages
+energy drink	Beverages
+milkshake	Beverages
+sports drink	Beverages
+smoothie	Beverages
+sparkling water	Beverages
+lemonade	Beverages
+iced tea	Beverages
+hot chocolate	Beverages
+chips	Snacks
+popcorn	Snacks
+chocolate bar	Snacks
+candy	Snacks
+cookies	Snacks
+pretzels	Snacks
+crackers	Snacks
+granola bars	Snacks
+nuts	Snacks
+trail mix	Snacks
+beef jerky	Snacks
+fruit snacks	Snacks
+cheese puffs	Snacks
+rice cakes	Snacks
+dried fruit	Snacks
+protein bars	Snacks
+deli meat	Deli
+cheese slices	Deli
+sandwich meat	Deli
+salami	Deli
+ham	Deli
+turkey	Deli
+bologna	Deli
+roast beef	Deli
+prosciutto	Deli
+pepperoni	Deli
+pastrami	Deli
+chorizo	Deli
+mortadella	Deli
+ketchup	Condiments & Sauces
+mustard	Condiments & Sauces
+mayonnaise	Condiments & Sauces
+bbq sauce	Condiments & Sauces
+soy sauce	Condiments & Sauces
+hot sauce	Condiments & Sauces
+ranch dressing	Condiments & Sauces
+salad dressing	Condiments & Sauces
+pesto	Condiments & Sauces
+tartar sauce	Condiments & Sauces
+hoisin sauce	Condiments & Sauces
+sriracha	Condiments & Sauces
+tahini	Condiments & Sauces
+vinaigrette	Condiments & Sauces
+olive tapenade	Condiments & Sauces
+canned beans	Canned Goods
+canned corn	Canned Goods
+canned tomatoes	Canned Goods
+canned soup	Canned Goods
+canned tuna	Canned Goods
+canned peas	Canned Goods
+canned chili	Canned Goods
+canned mushrooms	Canned Goods
+canned pineapple	Canned Goods
+canned peaches	Canned Goods
+canned carrots	Canned Goods
+canned olives	Canned Goods
+pasta	Pasta & Grains
+rice	Pasta & Grains
+quinoa	Pasta & Grains
+couscous	Pasta & Grains
+barley	Pasta & Grains
+oats	Pasta & Grains
+polenta	Pasta & Grains
+macaroni	Pasta & Grains
+spaghetti	Pasta & Grains
+fettuccine	Pasta & Grains
+bulgur	Pasta & Grains
+brown rice	Pasta & Grains
+wild rice	Pasta & Grains
+noodles	Pasta & Grains
+chicken thigh	Meat & Seafood
+chicken breast	Meat & Seafood
+pork belly	Meat & Seafood
+kefir	Dairy & Eggs
+biscuits	Snacks
+brown sauce	Condiments & Sauces
+chutney	Condiments & Sauces
+lasanga	Pasta & Grains
+risotto	Pasta & Grains
+basmati rice	Pasta & Grains
+cider	Beverages
+ale	Beverages
+olives	Deli
+jamon	Deli
+lard	Deli
+canned butter beans	Canned
+canned jalpenos	Canned
+canned potatoes	Canned
+canned custard	Canned
+organic apple	Produce
+organic banana	Produce
+organic orange	Produce
+organic lettuce	Produce
+organic carrot	Produce
+organic broccoli	Produce
+organic tomato	Produce
+organic spinach	Produce
+organic grapes	Produce
+organic pear	Produce
+organic kiwi	Produce
+organic mango	Produce
+organic strawberry	Produce
+organic blueberry	Produce
+organic zucchini	Produce
+organic cucumber	Produce
+organic avocado	Produce
+ground chicken	Meat & Seafood
+ground beef	Meat & Seafood
+ground pork	Meat & Seafood
+ground salmon	Meat & Seafood
+ground tuna	Meat & Seafood
+ground shrimp	Meat & Seafood
+ground crab	Meat & Seafood
+ground steak	Meat & Seafood
+ground lamb	Meat & Seafood
+ground bacon	Meat & Seafood
+ground sardines	Meat & Seafood
+ground trout	Meat & Seafood
+ground tilapia	Meat & Seafood
+ground cod	Meat & Seafood
+ground turkey breast	Meat & Seafood
+ground duck	Meat & Seafood
+ground lobster	Meat & Seafood
+ground chicken thigh	Meat & Seafood
+ground chicken breast	Meat & Seafood
+ground pork belly	Meat & Seafood
+cultured milk	Dairy & Eggs
+cultured cheese	Dairy & Eggs
+cultured yogurt	Dairy & Eggs
+cultured butter	Dairy & Eggs
+cultured eggs	Dairy & Eggs
+cultured cream	Dairy & Eggs
+cultured sour cream	Dairy & Eggs
+cultured ice cream	Dairy & Eggs
+cultured buttermilk	Dairy & Eggs
+cultured cottage cheese	Dairy & Eggs
+cultured whipped cream	Dairy & Eggs
+cultured ghee	Dairy & Eggs
+cultured feta cheese	Dairy & Eggs
+cultured goat cheese	Dairy & Eggs
+cultured ricotta	Dairy & Eggs
+cultured cream cheese	Dairy & Eggs
+cultured kefir	Dairy & Eggs
+gluten free bread	Bakery
+gluten free bagel	Bakery
+gluten free croissant	Bakery
+gluten free muffin	Bakery
+gluten free cake	Bakery
+gluten free cookie	Bakery
+gluten free donut	Bakery
+gluten free brownie	Bakery
+gluten free brioche	Bakery
+gluten free pita	Bakery
+gluten free ciabatta	Bakery
+gluten free sourdough	Bakery
+gluten free biscuit	Bakery
+gluten free waffle	Bakery
+gluten free crackers	Bakery
+gluten free pastry	Bakery
+boneless chicken	Meat & Seafood
+boneless beef	Meat & Seafood
+boneless pork	Meat & Seafood
+boneless salmon	Meat & Seafood
+boneless tuna	Meat & Seafood
+boneless shrimp	Meat & Seafood
+boneless crab	Meat & Seafood
+boneless steak	Meat & Seafood
+boneless lamb	Meat & Seafood
+boneless bacon	Meat & Seafood
+boneless sardines	Meat & Seafood
+boneless trout	Meat & Seafood
+boneless tilapia	Meat & Seafood
+boneless cod	Meat & Seafood
+boneless turkey breast	Meat & Seafood
+boneless duck	Meat & Seafood
+boneless lobster	Meat & Seafood
+boneless chicken thigh	Meat & Seafood
+boneless chicken breast	Meat & Seafood
+boneless pork belly	Meat & Seafood
+gluten free chips	Snacks
+gluten free popcorn	Snacks
+gluten free chocolate bar	Snacks
+gluten free candy	Snacks
+gluten free cookies	Snacks
+gluten free pretzels	Snacks
+gluten free crackers	Snacks
+gluten free granola bars	Snacks
+gluten free nuts	Snacks
+gluten free trail mix	Snacks
+gluten free beef jerky	Snacks
+gluten free fruit snacks	Snacks
+gluten free cheese puffs	Snacks
+gluten free rice cakes	Snacks
+gluten free dried fruit	Snacks
+gluten free protein bars	Snacks
+gluten free biscuits	Snacks
+low fat ketchup	Condiments & Sauces
+low fat mustard	Condiments & Sauces
+low fat mayonnaise	Condiments & Sauces
+low fat bbq sauce	Condiments & Sauces
+low fat soy sauce	Condiments & Sauces
+low fat hot sauce	Condiments & Sauces
+low fat ranch dressing	Condiments & Sauces
+low fat salad dressing	Condiments & Sauces
+low fat pesto	Condiments & Sauces
+low fat tartar sauce	Condiments & Sauces
+low fat hoisin sauce	Condiments & Sauces
+low fat sriracha	Condiments & Sauces
+low fat tahini	Condiments & Sauces
+low fat vinaigrette	Condiments & Sauces
+low fat olive tapenade	Condiments & Sauces
+low fat brown sauce	Condiments & Sauces
+low fat chutney	Condiments & Sauces
+gluten free pasta	Pasta & Grains
+gluten free rice	Pasta & Grains
+gluten free quinoa	Pasta & Grains
+gluten free couscous	Pasta & Grains
+gluten free barley	Pasta & Grains
+gluten free oats	Pasta & Grains
+gluten free polenta	Pasta & Grains
+gluten free macaroni	Pasta & Grains
+gluten free spaghetti	Pasta & Grains
+gluten free fettuccine	Pasta & Grains
+gluten free bulgur	Pasta & Grains
+gluten free brown rice	Pasta & Grains
+gluten free wild rice	Pasta & Grains
+gluten free noodles	Pasta & Grains
+gluten free lasanga	Pasta & Grains
+gluten free risotto	Pasta & Grains
+gluten free basmati rice	Pasta & Grains
+low calorie soda	Beverages
+low calorie juice	Beverages
+low calorie water	Beverages
+low calorie coffee	Beverages
+low calorie tea	Beverages
+low calorie wine	Beverages
+low calorie beer	Beverages
+low calorie energy drink	Beverages
+low calorie milkshake	Beverages
+low calorie sports drink	Beverages
+low calorie smoothie	Beverages
+low calorie sparkling water	Beverages
+low calorie lemonade	Beverages
+low calorie iced tea	Beverages
+low calorie hot chocolate	Beverages
+low calorie cider	Beverages
+low calorie ale	Beverages
+vegan deli meat	Deli
+vegan cheese slices	Deli
+vegan sandwich meat	Deli
+vegan salami	Deli
+vegan ham	Deli
+vegan turkey	Deli
+vegan bologna	Deli
+vegan roast beef	Deli
+vegan prosciutto	Deli
+vegan pepperoni	Deli
+vegan pastrami	Deli
+vegan chorizo	Deli
+vegan mortadella	Deli
+vegan olives	Deli
+vegan jamon	Deli
+vegan lard	Deli
+low sodium canned beans	Canned
+low sodium canned corn	Canned
+low sodium canned tomatoes	Canned
+low sodium canned soup	Canned
+low sodium canned tuna	Canned
+low sodium canned peas	Canned
+low sodium canned chili	Canned
+low sodium canned mushrooms	Canned
+low sodium canned pineapple	Canned
+low sodium canned peaches	Canned
+low sodium canned carrots	Canned
+low sodium canned olives	Canned
+low sodium canned butter beans	Canned
+low sodium canned jalpenos	Canned
+low sodium canned potatoes	Canned
+low sodium canned custard	Canned
+ready to eat canned beans	Canned
+ready to eat canned corn	Canned
+ready to eat canned tomatoes	Canned
+ready to eat canned soup	Canned
+ready to eat canned tuna	Canned
+ready to eat canned peas	Canned
+ready to eat canned chili	Canned
+ready to eat canned mushrooms	Canned
+ready to eat canned pineapple	Canned
+ready to eat canned peaches	Canned
+ready to eat canned carrots	Canned
+ready to eat canned olives	Canned
+ready to eat canned butter beans	Canned
+ready to eat canned jalpenos	Canned
+ready to eat canned potatoes	Canned
+ready to eat canned custard	Canned
+ready to eat low sodium canned beans	Canned
+ready to eat low sodium canned corn	Canned
+ready to eat low sodium canned tomatoes	Canned
+ready to eat low sodium canned soup	Canned
+ready to eat low sodium canned tuna	Canned
+ready to eat low sodium canned peas	Canned
+ready to eat low sodium canned chili	Canned
+ready to eat low sodium canned mushrooms	Canned
+ready to eat low sodium canned pineapple	Canned
+ready to eat low sodium canned peaches	Canned
+ready to eat low sodium canned carrots	Canned
+ready to eat low sodium canned olives	Canned
+ready to eat low sodium canned butter beans	Canned
+ready to eat low sodium canned jalpenos	Canned
+ready to eat low sodium canned potatoes	Canned
+ready to eat low sodium canned custard	Canned
+organic milk	Dairy & Eggs
+organic cheese	Dairy & Eggs
+organic yogurt	Dairy & Eggs
+organic butter	Dairy & Eggs
+organic eggs	Dairy & Eggs
+organic cream	Dairy & Eggs
+organic sour cream	Dairy & Eggs
+organic ice cream	Dairy & Eggs
+organic buttermilk	Dairy & Eggs
+organic cottage cheese	Dairy & Eggs
+organic whipped cream	Dairy & Eggs
+organic ghee	Dairy & Eggs
+organic feta cheese	Dairy & Eggs
+organic goat cheese	Dairy & Eggs
+organic ricotta	Dairy & Eggs
+organic cream cheese	Dairy & Eggs
+organic kefir	Dairy & Eggs
+organic cultured milk	Dairy & Eggs
+organic cultured cheese	Dairy & Eggs
+organic cultured yogurt	Dairy & Eggs
+organic cultured butter	Dairy & Eggs
+organic cultured eggs	Dairy & Eggs
+organic cultured cream	Dairy & Eggs
+organic cultured sour cream	Dairy & Eggs
+organic cultured ice cream	Dairy & Eggs
+organic cultured buttermilk	Dairy & Eggs
+organic cultured cottage cheese	Dairy & Eggs
+organic cultured whipped cream	Dairy & Eggs
+organic cultured ghee	Dairy & Eggs
+organic cultured feta cheese	Dairy & Eggs
+organic cultured goat cheese	Dairy & Eggs
+organic cultured ricotta	Dairy & Eggs
+organic cultured cream cheese	Dairy & Eggs
+organic cultured kefir	Dairy & Eggs
+artisan bread	Bakery
+artisan bagel	Bakery
+artisan croissant	Bakery
+artisan muffin	Bakery
+artisan cake	Bakery
+artisan cookie	Bakery
+artisan donut	Bakery
+artisan brownie	Bakery
+artisan brioche	Bakery
+artisan pita	Bakery
+artisan ciabatta	Bakery
+artisan sourdough	Bakery
+artisan biscuit	Bakery
+artisan waffle	Bakery
+artisan crackers	Bakery
+artisan pastry	Bakery
+artisan gluten free bread	Bakery
+artisan gluten free bagel	Bakery
+artisan gluten free croissant	Bakery
+artisan gluten free muffin	Bakery
+artisan gluten free cake	Bakery
+artisan gluten free cookie	Bakery
+artisan gluten free donut	Bakery
+artisan gluten free brownie	Bakery
+artisan gluten free brioche	Bakery
+artisan gluten free pita	Bakery
+artisan gluten free ciabatta	Bakery
+artisan gluten free sourdough	Bakery
+artisan gluten free biscuit	Bakery
+artisan gluten free waffle	Bakery
+artisan gluten free crackers	Bakery
+artisan gluten free pastry	Bakery
+low calorie chips	Snacks
+low calorie popcorn	Snacks
+low calorie chocolate bar	Snacks
+low calorie candy	Snacks
+low calorie cookies	Snacks
+low calorie pretzels	Snacks
+low calorie crackers	Snacks
+low calorie granola bars	Snacks
+low calorie nuts	Snacks
+low calorie trail mix	Snacks
+low calorie beef jerky	Snacks
+low calorie fruit snacks	Snacks
+low calorie cheese puffs	Snacks
+low calorie rice cakes	Snacks
+low calorie dried fruit	Snacks
+low calorie protein bars	Snacks
+low calorie biscuits	Snacks
+low calorie gluten free chips	Snacks
+low calorie gluten free popcorn	Snacks
+low calorie gluten free chocolate bar	Snacks
+low calorie gluten free candy	Snacks
+low calorie gluten free cookies	Snacks
+low calorie gluten free pretzels	Snacks
+low calorie gluten free crackers	Snacks
+low calorie gluten free granola bars	Snacks
+low calorie gluten free nuts	Snacks
+low calorie gluten free trail mix	Snacks
+low calorie gluten free beef jerky	Snacks
+low calorie gluten free fruit snacks	Snacks
+low calorie gluten free cheese puffs	Snacks
+low calorie gluten free rice cakes	Snacks
+low calorie gluten free dried fruit	Snacks
+low calorie gluten free protein bars	Snacks
+low calorie gluten free biscuits	Snacks
+garlic ketchup	Condiments & Sauces
+garlic mustard	Condiments & Sauces
+garlic mayonnaise	Condiments & Sauces
+garlic bbq sauce	Condiments & Sauces
+garlic soy sauce	Condiments & Sauces
+garlic hot sauce	Condiments & Sauces
+garlic ranch dressing	Condiments & Sauces
+garlic salad dressing	Condiments & Sauces
+garlic pesto	Condiments & Sauces
+garlic tartar sauce	Condiments & Sauces
+garlic hoisin sauce	Condiments & Sauces
+garlic sriracha	Condiments & Sauces
+garlic tahini	Condiments & Sauces
+garlic vinaigrette	Condiments & Sauces
+garlic olive tapenade	Condiments & Sauces
+garlic brown sauce	Condiments & Sauces
+garlic chutney	Condiments & Sauces
+garlic low fat ketchup	Condiments & Sauces
+garlic low fat mustard	Condiments & Sauces
+garlic low fat mayonnaise	Condiments & Sauces
+garlic low fat bbq sauce	Condiments & Sauces
+garlic low fat soy sauce	Condiments & Sauces
+garlic low fat hot sauce	Condiments & Sauces
+garlic low fat ranch dressing	Condiments & Sauces
+garlic low fat salad dressing	Condiments & Sauces
+garlic low fat pesto	Condiments & Sauces
+garlic low fat tartar sauce	Condiments & Sauces
+garlic low fat hoisin sauce	Condiments & Sauces
+garlic low fat sriracha	Condiments & Sauces
+garlic low fat tahini	Condiments & Sauces
+garlic low fat vinaigrette	Condiments & Sauces
+garlic low fat olive tapenade	Condiments & Sauces
+garlic low fat brown sauce	Condiments & Sauces
+garlic low fat chutney	Condiments & Sauces
+buckwheat pasta	Pasta & Grains
+buckwheat rice	Pasta & Grains
+buckwheat quinoa	Pasta & Grains
+buckwheat couscous	Pasta & Grains
+buckwheat barley	Pasta & Grains
+buckwheat oats	Pasta & Grains
+buckwheat polenta	Pasta & Grains
+buckwheat macaroni	Pasta & Grains
+buckwheat spaghetti	Pasta & Grains
+buckwheat fettuccine	Pasta & Grains
+buckwheat bulgur	Pasta & Grains
+buckwheat brown rice	Pasta & Grains
+buckwheat wild rice	Pasta & Grains
+buckwheat noodles	Pasta & Grains
+buckwheat lasanga	Pasta & Grains
+buckwheat risotto	Pasta & Grains
+buckwheat basmati rice	Pasta & Grains
+buckwheat gluten free pasta	Pasta & Grains
+buckwheat gluten free rice	Pasta & Grains
+buckwheat gluten free quinoa	Pasta & Grains
+buckwheat gluten free couscous	Pasta & Grains
+buckwheat gluten free barley	Pasta & Grains
+buckwheat gluten free oats	Pasta & Grains
+buckwheat gluten free polenta	Pasta & Grains
+buckwheat gluten free macaroni	Pasta & Grains
+buckwheat gluten free spaghetti	Pasta & Grains
+buckwheat gluten free fettuccine	Pasta & Grains
+buckwheat gluten free bulgur	Pasta & Grains
+buckwheat gluten free brown rice	Pasta & Grains
+buckwheat gluten free wild rice	Pasta & Grains
+buckwheat gluten free noodles	Pasta & Grains
+buckwheat gluten free lasanga	Pasta & Grains
+buckwheat gluten free risotto	Pasta & Grains
+buckwheat gluten free basmati rice	Pasta & Grains
+low sugar soda	Beverages
+low sugar juice	Beverages
+low sugar water	Beverages
+low sugar coffee	Beverages
+low sugar tea	Beverages
+low sugar wine	Beverages
+low sugar beer	Beverages
+low sugar energy drink	Beverages
+low sugar milkshake	Beverages
+low sugar sports drink	Beverages
+low sugar smoothie	Beverages
+low sugar sparkling water	Beverages
+low sugar lemonade	Beverages
+low sugar iced tea	Beverages
+low sugar hot chocolate	Beverages
+low sugar cider	Beverages
+low sugar ale	Beverages
+low sugar low calorie soda	Beverages
+low sugar low calorie juice	Beverages
+low sugar low calorie water	Beverages
+low sugar low calorie coffee	Beverages
+low sugar low calorie tea	Beverages
+low sugar low calorie wine	Beverages
+low sugar low calorie beer	Beverages
+low sugar low calorie energy drink	Beverages
+low sugar low calorie milkshake	Beverages
+low sugar low calorie sports drink	Beverages
+low sugar low calorie smoothie	Beverages
+low sugar low calorie sparkling water	Beverages
+low sugar low calorie lemonade	Beverages
+low sugar low calorie iced tea	Beverages
+low sugar low calorie hot chocolate	Beverages
+low sugar low calorie cider	Beverages
+low sugar low calorie ale	Beverages
+smoked deli meat	Deli
+smoked cheese slices	Deli
+smoked sandwich meat	Deli
+smoked salami	Deli
+smoked ham	Deli
+smoked turkey	Deli
+smoked bologna	Deli
+smoked roast beef	Deli
+smoked prosciutto	Deli
+smoked pepperoni	Deli
+smoked pastrami	Deli
+smoked chorizo	Deli
+smoked mortadella	Deli
+smoked olives	Deli
+smoked jamon	Deli
+smoked lard	Deli
+smoked vegan deli meat	Deli
+smoked vegan cheese slices	Deli
+smoked vegan sandwich meat	Deli
+smoked vegan salami	Deli
+smoked vegan ham	Deli
+smoked vegan turkey	Deli
+smoked vegan bologna	Deli
+smoked vegan roast beef	Deli
+smoked vegan prosciutto	Deli
+smoked vegan pepperoni	Deli
+smoked vegan pastrami	Deli
+smoked vegan chorizo	Deli
+smoked vegan mortadella	Deli
+smoked vegan olives	Deli
+smoked vegan jamon	Deli
+smoked vegan lard	Deli
+locally grown apple	Produce
+locally grown banana	Produce
+locally grown orange	Produce
+locally grown lettuce	Produce
+locally grown carrot	Produce
+locally grown broccoli	Produce
+locally grown tomato	Produce
+locally grown spinach	Produce
+locally grown grapes	Produce
+locally grown pear	Produce
+locally grown kiwi	Produce
+locally grown mango	Produce
+locally grown strawberry	Produce
+locally grown blueberry	Produce
+locally grown zucchini	Produce
+locally grown cucumber	Produce
+locally grown avocado	Produce
+locally grown organic apple	Produce
+locally grown organic banana	Produce
+locally grown organic orange	Produce
+locally grown organic lettuce	Produce
+locally grown organic carrot	Produce
+locally grown organic broccoli	Produce
+locally grown organic tomato	Produce
+locally grown organic spinach	Produce
+locally grown organic grapes	Produce
+locally grown organic pear	Produce
+locally grown organic kiwi	Produce
+locally grown organic mango	Produce
+locally grown organic strawberry	Produce
+locally grown organic blueberry	Produce
+locally grown organic zucchini	Produce
+locally grown organic cucumber	Produce
+locally grown organic avocado	Produce
